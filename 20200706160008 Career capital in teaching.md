@@ -1,6 +1,6 @@
 # Career capital in teaching
 
-#career-development #teaching #deliberate-practice 
+#career-development #teaching #deliberate-practice #career-capital
 
 From _So Good They Can't Ignore You_ by Cal Newport
 
