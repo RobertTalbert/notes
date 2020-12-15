@@ -1,30 +1,5 @@
-# Inbox
 
-- Read about Zoom features
-- Brainstorm limit content for 201
-- Sign and return CSU form 
-- Reply to Ed re: NYE 
-- Reschedule oil change
-- Retrieve stuff from GVSU
-- Review detailed outline
-- Take care of Lucy insurance issue
-- Read article on student success
-- Talk to Cathy about kids birthdays
-- Look for barbell/free weight workouts
-- Grade 225 Final Exam
-- Set up 201 grading spreadsheet
-- Set up 225 grading spreadsheet
-- Tabulate 201 final grades
-- Tabulate 225 final grades
-- Grade 225 AEPs
-- Grade 225 CP 11 
-- Turn in 201 grades
-- Turn in 225 grades
-- Fill out Faculty Huddle form
-- Organize Bb gradebooks
-- Try paint samples
-- Review Coursera R course 
-- Review detailed outline
+# Inbox
 
 
 
@@ -46,18 +21,53 @@
 
 # This week 
 
-- 
-
+- Sign and return CSU form 
+- Grade 225 Final Exam
+- Grade 225 AEPs
+- Grade 225 CP 11 
+- Organize Bb gradebooks
+- Tabulate 201 final grades
+- Tabulate 225 final grades
+- Turn in 201 grades
+- Turn in 225 grades
+- Set up 201 grading spreadsheet
+- Set up 225 grading spreadsheet
 
 # This month 
-
-
 # Contexts 
 
 ## @Home 
+
+- Try paint samples
+
+## @Email
+
+- Fill out Faculty Huddle form
+- Reply to Ed re: NYE 
+
+
+## @Anywhere 
+
+- Read about Zoom features
+- Brainstorm limit content for 201
+- Review Coursera R course 
+- Read article on student success
+- Take care of Lucy insurance issue
+- Look for barbell/free weight workouts
+- Review detailed outline for MG book 
+- Reschedule oil change
 
 ## @Errand
 
 ## @GVSU
 
-## 
+- Retrieve stuff from GVSU
+
+
+## @Cathy
+
+- Talk to Cathy about kids birthdays
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTUyMTc1NTE5XX0=
+-->
