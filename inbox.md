@@ -1,5 +1,6 @@
-
 # Inbox
+
+- Watch 2021 bullet journal setup https://youtu.be/szXw5Dgw72Y 
 
 
 
