@@ -14,11 +14,11 @@ tags: gtd
     - [ ] Students 3/4
     - [ ] Students 4/4
 - Tabulate 201 final grades
+- Grade 225 AEPs
 
 # This week 
 
 - Grade 225 Final Exam
-- Grade 225 AEPs
 - Grade 225 CP 11 
 - Tabulate 225 final grades
 - Turn in 225 grades
@@ -60,5 +60,5 @@ tags: gtd
 - Talk to Cathy about kids birthdays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDk2NzE3OCwxMzc2NjAwODcyXX0=
+eyJoaXN0b3J5IjpbMjA5MDYwOTA5OCwxMzc2NjAwODcyXX0=
 -->
