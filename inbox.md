@@ -1,8 +1,11 @@
+---
+tags: gtd
+--- 
+
+
 # Inbox
 
-- Watch 2021 bullet journal setup https://youtu.be/szXw5Dgw72Y 
-
-
+- Watch 2021 bullet journal setup https://youtu.be/szXw5Dgw72Y
 
 # TODAY 
 
@@ -70,5 +73,5 @@
 - Talk to Cathy about kids birthdays
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTc1NTE5XX0=
+eyJoaXN0b3J5IjpbMTM3NjYwMDg3Ml19
 -->
