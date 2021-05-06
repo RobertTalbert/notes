@@ -43,7 +43,26 @@ Surjective functions
 Bijective functions
 Special functions: Ceiling, floor, DIV, MOD 
 
+Additive principle
+Multiplicative principle
+BC As the solution to a counting problem (introduction to recursion)
+BC As the entries of Pascal's triangle
+BC As a formula
+(X) Combinations and permutations
+(X) Stars and bars
+Principle of inclusion and exclusion
+(X) Combinatorial proofs
+
+Sequences With a closed formula
+Sequences With a recursive definition
+
+Checking a proposed solution
+Solving recurrence relations with characteristic roots
+
+Induction What it says and what it's for
+
+Why and how it works
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxODM4MzA3XX0=
+eyJoaXN0b3J5IjpbLTk4MzU2MjU3Nl19
 -->
