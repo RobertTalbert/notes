@@ -27,11 +27,23 @@ Double quantified statements
 Truth of quantified statements; underdetermined statements
 Negation of quantified statements
 
-Definition of a set; finite vs infinite sets
+Definition of a set; finite vs infinite sets; empty set
 Roster and set-builder notation
 Elements of sets
 Subsets and set equality
 Power set of a set
+Intersection
+Union
+Difference and complement
+Cartesian product
+
+What is a function vs. a non function
+Injective functions
+Surjective functions 
+Bijective functions
+Special functions: Ceiling, floor, DIV, MOD 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDY2NDU5OV19
+eyJoaXN0b3J5IjpbNTYxODM4MzA3XX0=
 -->
