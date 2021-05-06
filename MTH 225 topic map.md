@@ -26,7 +26,7 @@ MTH 225
             Negation of quantified statements 
     Sets
         Set definition and notation
-            Definition of a set; finite vs infinite sets 
+            Definition of a set; finite vs infinite sets; the empty set
             Roster and set-builder notation
             Elements of sets 
             Subsets and set equality
