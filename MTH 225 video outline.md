@@ -59,10 +59,10 @@ Sequences With a recursive definition
 Checking a proposed solution
 Solving recurrence relations with characteristic roots
 
-Induction What it says and what it's for
+Induction What it says and what it's for, Why and how it works
 
-Why and how it works
-
+(X) Framework for an induction proof
+(X) Writing induction proofs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzU2MjU3Nl19
+eyJoaXN0b3J5IjpbLTQ5NzU3OTU2N119
 -->
