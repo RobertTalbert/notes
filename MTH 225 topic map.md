@@ -26,7 +26,7 @@ MTH 225
             Negation of quantified statements 
     Sets
         Set definition and notation
-            Definition of a set; finite vs infinite sets; the empty set
+            Definition of a set; finite vs infinite sets; the empty set 
             Roster and set-builder notation
             Elements of sets 
             Subsets and set equality
@@ -76,3 +76,6 @@ MTH 225
             Proving the inductive step 
         Critical analysis of an induction proof 
         Writing induction proofs 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTMzODE4NzYwNV19
+-->
