@@ -48,7 +48,23 @@
     - Students improve performance on individual specs over time generally speaking but with diminishing returns 
     - No comparison with control pass rates on similar topics
 - Course grades 
-- 
+    - **I don't understand the graphs at the bottom of page 10** – What in particular do the "number of attempts" bars show? An average number of attempts across all learning targets? Something else? 
 
 ## Discussion
 
+- Instructor workload: 
+    - Takes more time than traditional to write reassessments 
+    - But the individual grading is easier 
+- Student behavior 
+    - "Clear in conversations" (warning: means anecdotes) that students are discussing old topics more in office hours
+    - Students procrastinated the reassessments (at WIT) to make it logistically impossible to pass all of the specs → Increased anxiety 
+- Student feedback
+    - What aspects of SBG do you wish were different?
+        - More lenient grading
+        - Retake scheduling 
+        - Number of specs per assessment (no indication higher or lower) 
+- Future changes 
+    - Rating objectives as "primary" or "secondary" (= Core vs supplemental) 
+    - What portion of final grade should come from SBG assessments 
+    - Number of attempts – more is better but also leads to more procrastination
+    - Streamlining reassessment process
