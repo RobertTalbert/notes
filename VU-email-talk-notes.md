@@ -1,5 +1,10 @@
 # Outline and Scripted bits for VU email talk
 
+Slides: https://docs.google.com/presentation/d/1HKGw1XcqLsruMcB618PdkO8q_DNE0GzawhKZU1IcwDE/edit?usp=sharing
+
+Notes and links: https://docs.google.com/document/d/13EzvQcuNeZEbQq7RNuM9qJI4ZNV6_FdvFZAnou-NIug/edit?usp=sharing 
+
+
 - Talking about email
   - I write a lot about email but I have never actually given a talk or workshop on this
   - Whenever I do write or tweet about email management, there's an eerie silence
