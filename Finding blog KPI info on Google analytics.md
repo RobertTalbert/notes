@@ -19,3 +19,18 @@ Also (https://www.impactplus.com/blog/marketing-metrics-on-google-analytics):
 + Pages per session
 + Source/medium and channels
 
+Metrics to track 
+----------------
+
+Metrics to track with goals: 
+
++ Overall visits 
++ Page views 
++ Time per session 
+
+Metrics to track for observation:
+
++ Ratio of new/returning visitors 
++ Which posts get the most traffic (category wise, or by post length) 
++ Number of sessions
++ Bounce rate 
