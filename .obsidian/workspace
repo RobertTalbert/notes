@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "b3af3295852cb105",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ff9ac25ce2d5f24",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CECI talk outline.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3edb08f832880da2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f255a1aa3ca29829",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc7ba15b904edaa3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2d35397fe54a9c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "pedagogy",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "899d1aaa4c678567",
+    "type": "split",
+    "children": [
+      {
+        "id": "0edfba6e02696e92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb5dd5a6a3e6f5e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CECI talk outline.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6ff9ac25ce2d5f24",
+  "lastOpenFiles": [
+    "CECI talk outline.md",
+    "Testing Obsidian note.md",
+    "Course prep notes.md",
+    "constructivism.png",
+    "20200707135907 Martin et al 2019.md",
+    "20220111080939 Aragon Eddy Graham 2018.md",
+    "20200706155802 Zhu et al 2020.md"
+  ]
+}
